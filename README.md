@@ -16,6 +16,9 @@
 
 📊 Monthly revenue and booking analytics
 
+## 📚 Documentation
+🎨 Folder Structure & .env Example - [Guide](./DOCUMENTATION.md)
+
 ### Home Page
 ![Home Page](./Screenshots/Home.png)
 ### Movies Page
