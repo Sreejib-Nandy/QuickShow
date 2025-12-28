@@ -38,3 +38,11 @@
 ### List Bookings Page
 ![ListBookings](./Screenshots/Listbookings.png)
 
+### 📜 License : --
+This project is licensed under the **MIT License**.
+
+### 👨‍💻 Author : --
+## Sreejib Nandy
+🔗 GitHub: https://github.com/Sreejib-Nandy
+
+## ⭐ If you like this project, don’t forget to star the repo!
