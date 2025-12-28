@@ -16,7 +16,7 @@
 
 📊 Monthly revenue and booking analytics
 
-## 📚 Documentation
+### 📚 Documentation
 🎨 Folder Structure & .env Example - [Guide](./DOCUMENTATION.md)
 
 ### Home Page
